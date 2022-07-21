@@ -1,0 +1,19 @@
+1 – regular
+2 – big map
+3 – empty file
+4 – invalid sprites
+5 – empty line
+6 - empty line
+7 – Miss a wall at last row
+8 – Miss a wall at last column
+9 - Miss a wall at first row
+10 - Miss a wall at first column
+11 – Not rectangular
+12 – Two exits
+13 – Two players
+14 – Just one wall
+15 and 16 – Minimal map
+17 – Missing collectible
+18 – Missing exit
+19 – Missing player
+20 – Invalid extension
