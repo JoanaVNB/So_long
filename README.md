@@ -22,4 +22,6 @@ Example to open the window and insert image:
 
 ![image](https://user-images.githubusercontent.com/98241492/180104023-5e2a4ad3-87dd-41d8-af9c-0627686b0f5f.png)
 
+To compile it was used: clang main.c -lX11 -lXext -lmlx & ./a.out (in workspace).
+
 This funcions were used in the file init_game. 
