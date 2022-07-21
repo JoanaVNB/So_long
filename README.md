@@ -3,7 +3,9 @@ This project is a small 2D game. Its purpose work with textures, sprites, and ba
 
 ![SO_LONG!!](https://user-images.githubusercontent.com/98241492/180044814-ce24a2f2-1dc1-43e1-8724-f0020e9750f2.gif)
 
+
 Using MiniLibX:
+
 First, we need to initialize mlx with mlx_init(), which returns a pointer (void *) that we need to save because many of the library functions need it to work.
 
 Then we can open the window with the mlx_new_window() function which receives the mlx pointer, the window size and the title that would be displayed on top. Returning a void pointer that is a reference to the open window. Again, we need to save that pointer for later use.
@@ -18,4 +20,6 @@ To print the image on the screen, the mlx_put_image_to_window function is used.
 
 Example to open the window and insert image:
 
-![inicio](https://user-images.githubusercontent.com/98241492/180103857-861dff9f-b83b-4c4a-ba80-3cab20476e9c.png)
+![image](https://user-images.githubusercontent.com/98241492/180104023-5e2a4ad3-87dd-41d8-af9c-0627686b0f5f.png)
+
+This funcions were used in the file init_game. 
